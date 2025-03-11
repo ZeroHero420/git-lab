@@ -1,0 +1,8 @@
+What does git add do, and why is it necessary before committing?
+Git Add puts it in local repository which allows for you to save copies before sending changes made.
+What does git commit do, and why is it necessary before pushing?
+Send changes that are then review by and made sure it makes sense in parameters, instead of just being coping the origin.
+What is the difference between git clone and git pull, and when should each be used?
+Pull gets you the lastest verison, while clone is locol repository.
+How can you verify that a git pull was successful after making changes on GitHub?
+View it's status by using git status to check if files are valid.
